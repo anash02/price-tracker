@@ -1,0 +1,32 @@
+[
+  {
+    "id": "item_001",
+    "name": "Keychron K8 - Amazon",
+    "url": "https://www.amazon.in/Keychron-Mechanical-Keyboard-Tenkeyless-Bluetooth/dp/B08B5WHYTT/ref=sr_1_4?crid=M1JGSL18BHLK&dib=eyJ2IjoiMSJ9.8Kc-E4Huiii-JUdUgKuQI0a1qy50rGlxNbCsftX-KfhY8Bu5FfqZFl6YkBg5sAhIYgdn4Y3Wxps1F8KkjgYEMTbV4ePaJOkty-S3xkSkOKBIv0e-NoRNLIFVlHgZWryE2vFjjo5jXYCl328HOV_hkkCmugUu-dROtGNSlaqWy4Pw91HSdMyseqpFXm3abtb-JXBXhEo5oILDrwo9q0_KrW0-3wWMG0mApSSlUlPo6yU.Ta55jv-ZkMCamy0rN0V_McYNQmXk_FTwYszxlOtVDoQ&dib_tag=se&keywords=keychron+k8&nsdOptOutParam=true&qid=1777139374&sprefix=%2Caps%2C385&sr=8-4",
+    "target_price": 8000
+  },
+  {
+    "id": "item_002",
+    "name": "Keychron K10 - Amazon",
+    "url": "https://www.amazon.in/KeyChron-Bluetooth-Mechanical-Multitasking-Backlight/dp/B08MKSNYJD/ref=sr_1_3?crid=1WVQ7U5UYKFD5&dib=eyJ2IjoiMSJ9.Vk2lCOGDSj0LL6mH0RrOpYlX7789x6KsA-j_Qn4d3r5TwT9RHOkcVlvP4sOnhkk6Q0LlsopiGwjy68taYhkr8OBzXEsjiU8lQDIXbeKzVKyQb_MnRwhCdze12bQgBfcFz7DqTpcz0Fwt0LATpclux7LjUUGARJNDjfs3wWIqz2lwK5VgHftJH18lq7U3G3Tn3QCH3q1k1GmbjNmqQlXZ9W_oTlQLNWrxfAeZSsWFxVo.3B6Ge6H8NOrIkfFkuYFjMWJ3SrKla-nFbsGBR-pWSF0&dib_tag=se&keywords=keychron+k10&nsdOptOutParam=true&qid=1777139467&sprefix=keychron+k1%2Caps%2C424&sr=8-3",
+    "target_price": 8000
+  },
+  {
+    "id": "item_003",
+    "name": "Keychron K8 - Flipkart",
+    "url": "https://www.flipkart.com/keychron-k8-wireless-mechanical-keyboard-multi-device-bluetooth-wired-usb-tenkeyless-compatible-desktop-laptop-mac-easy-use-plug-play-quick-comfy-durable-body/p/itm147650a73d552?pid=ACCGT63HR59P46PH&lid=LSTACCGT63HR59P46PHNK5SQO&marketplace=FLIPKART&q=keychron+k8&store=6bo%2Ftia%2F8pp%2Fwap&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=f451f9f8-96d9-47d1-879d-ff91082f7924.ACCGT63HR59P46PH.SEARCH&ppt=sp&ppn=sp&ssid=a4q6jo4h7k0000001777139734644&qH=8d26e470d24958e0&ov_redirect=true&ov_redirect=true",
+    "target_price": 8000
+  },
+  {
+    "id": "item_005",
+    "name": "Logitech MX 3S - Amazon",
+    "url": "https://www.amazon.in/Logitech-MX-Master-3S-Chrome-Graphite/dp/B0B11LJ69K/ref=sr_1_3?crid=1K14ZH4M3RSXP&dib=eyJ2IjoiMSJ9.4y1eN8W4yHVP-ehTDzsOmNxlU9hYOwmVhUnS4uf1s6oQV3oCT3ML8DoxiURKiOiUafjeQmu3FYY_BorTXavglHJGH9uszG7PlSxyDWAL2Ryf8gh3WWtot4W2LITk0fkubXSRp6sVXhhyPDd2htU82MO0ZL0mOZrKUpjhFOiK_AvlalO6Q90EZ5gqRvGbn1GwzTqhEAHIl6qQrECkxA8S8jNwsjWj-83K5UAacLy8ptQ.w1klkNEoOKBbQibmX-v52QO-byRmt8lxLjx9F8Z_Ask&dib_tag=se&keywords=logitech%2Bmx%2Bmaster%2B3s&nsdOptOutParam=true&qid=1777139583&sprefix=logitech%2Caps%2C423&sr=8-3&th=1",
+    "target_price": 8000
+  },
+  {
+    "id": "item_006",
+    "name": "Logitech MX 3S - Flipkart",
+    "url": "https://www.flipkart.com/logitech-mx-master-3s-ambidextrous-touch-mouse/p/itm271ade01ff274?pid=ACCGFPFCAFGREFHZ&marketplace=FLIPKART&lid=LSTACCGFPFCAFGREFHZMWXUSH&q=logitech+mx+master+3s&fm=search-autosuggest&pageUID=1777139823299",
+    "target_price": 8000
+  }
+]
